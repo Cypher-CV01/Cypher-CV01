@@ -7,12 +7,12 @@ Sou desenvolvedor com 7 meses de experiência em **Java 21/23** e **Python 3**. 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img
     alt="GitHub Stats"
-    height="200"
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=Cypher-CV01&show_icons=true&theme=blue-green&include_all_commits=true&locale=pt-br"
   />
   <img
     alt="GitHub Stats"
-    height="200"
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-CV01&theme=blue-green&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
